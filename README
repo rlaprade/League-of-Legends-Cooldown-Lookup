@@ -1,0 +1,3 @@
+getCds.py can take in any number of champions as command line arguments (separated by spaces).  It will print a list of ultimate cooldown timers for each, showing the cooldown at each of the 3 ranks.
+
+Currently, champion names must be properly capitalized.  If there is a space in the name (such as Dr. Mundo) use backslash-space.
